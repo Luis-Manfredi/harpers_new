@@ -3,15 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "914067abad13d53ecf2aba9754b7ed0b",
+  "assets/AssetManifest.json": "a04cb5c0cd90c2f62d9c090b52af9ac7",
 "assets/assets/images/harpers.png": "521dea8565b5f5e42fc5dd8e0d23de87",
+"assets/assets/images/logo-bw%2520white.png": "048f54611780829dc259877030de0733",
+"assets/assets/images/logo-bw.png": "9ce5a822135d44d66737664810593cd3",
 "assets/assets/svg/contact_us.svg": "d9a9c635bc80d5190200754185783b1d",
 "assets/assets/svg/delivery.svg": "395e485a0256bcd28daae3f15cdc1f11",
 "assets/assets/svg/eating_together.svg": "2bfa9a076e981e75d615e522eb525a57",
+"assets/assets/svg/Logo-BestwayMarketing.svg": "db9739ea41a5a1470daa97f9eb2d2d99",
 "assets/assets/svg/sandwich.svg": "ff113d3b5ba3b0e7a5c7abaaebe61a51",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "fe9762abc20b97cff3685f7f2172776a",
+"assets/NOTICES": "20692045cdbc0fa2b6fae10c679799ce",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
@@ -26,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "104ca2075105bb005fd725663def9b55",
-"/": "104ca2075105bb005fd725663def9b55",
-"main.dart.js": "e4704a853bdd7268582c8eeaeb31722d",
+"index.html": "0e274284bd5809d15272077f2e01b2d1",
+"/": "0e274284bd5809d15272077f2e01b2d1",
+"main.dart.js": "f7f3a71b7c387e424114c7a2c4a652a6",
 "manifest.json": "c843bc1f10939fdde8202dab4c04eb0a",
 "version.json": "ac2997cb206cf2e755dfcf46aefc87e4"
 };
