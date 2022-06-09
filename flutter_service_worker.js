@@ -3,12 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "93b6b5a4df9d2c6b6e342e8d3043fc0a",
+  "assets/AssetManifest.json": "6a2e2230da398623b3e9d548d91e6600",
 "assets/assets/images/-Menu.png": "955885b52cb6da724d30fa6b8ddb4590",
+"assets/assets/images/Delivery.jpg": "65ecbaa0566e2a5d0a74a92b7eab9d55",
 "assets/assets/images/harpers.png": "521dea8565b5f5e42fc5dd8e0d23de87",
 "assets/assets/images/logo-bw%2520white.png": "048f54611780829dc259877030de0733",
 "assets/assets/images/logo-bw-white.png": "5570c762f220982d5e5c6112d4562492",
 "assets/assets/images/logo-bw.png": "9ce5a822135d44d66737664810593cd3",
+"assets/assets/images/Logo-con-copyright.png": "d795374a52692ce1d87322930ff5547d",
+"assets/assets/images/Logo-Harpers-con-copyright%25201.png": "64ed043cdae6cc89ecd3f4805f62ba92",
+"assets/assets/images/terms.png": "72ddfb0cf14c8472e81626373b379eeb",
 "assets/assets/svg/contact_us.svg": "d9a9c635bc80d5190200754185783b1d",
 "assets/assets/svg/delivery.svg": "395e485a0256bcd28daae3f15cdc1f11",
 "assets/assets/svg/eating_together.svg": "2bfa9a076e981e75d615e522eb525a57",
@@ -31,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "114d2a1aa153bf4d80cad2360aaaaaae",
-"/": "114d2a1aa153bf4d80cad2360aaaaaae",
-"main.dart.js": "22db2bf272f5d2f26385d71cc895b10f",
+"index.html": "5673ef0ca5a33c61c0d304554088dde7",
+"/": "5673ef0ca5a33c61c0d304554088dde7",
+"main.dart.js": "de590bcdd6397872f5c0d4c29ed17d36",
 "manifest.json": "c843bc1f10939fdde8202dab4c04eb0a",
 "version.json": "ac2997cb206cf2e755dfcf46aefc87e4"
 };
