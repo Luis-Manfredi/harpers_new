@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "73499cd81691f1ae9fe1e6d2adf1e238",
+  "assets/AssetManifest.json": "a2c05e0920cb58e03a612a50a3cd8522",
 "assets/assets/images/-Menu.png": "955885b52cb6da724d30fa6b8ddb4590",
 "assets/assets/images/cheesecake.jpg": "407ddf60fefac6294ed938d79805bc45",
 "assets/assets/images/cocktail.jpg": "28f9da9f10c459b5fd59cf09bd90afa0",
 "assets/assets/images/Delivery.jpg": "65ecbaa0566e2a5d0a74a92b7eab9d55",
+"assets/assets/images/delivery_new.jpg": "a1aa09884cefd3040cffd0d4c988ba00",
 "assets/assets/images/entrada_img.jpg": "5583a713e5c709fe87643d3f7ed4b049",
 "assets/assets/images/filet.jpg": "bff62e8add80d76172e66d6aea513667",
 "assets/assets/images/hamburguesas.jpg": "a985e320e1042750f23d9e9bad6bc084",
@@ -38,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3d02bf7499328e481386262bbf58281f",
-"/": "3d02bf7499328e481386262bbf58281f",
-"main.dart.js": "c12ba2cf9f13b5a5bd1f49c3d452b60d",
+"index.html": "532256ffda725f848337c69aaa503018",
+"/": "532256ffda725f848337c69aaa503018",
+"main.dart.js": "be02ec6ea98d50fb54157a524d735471",
 "manifest.json": "c843bc1f10939fdde8202dab4c04eb0a",
 "version.json": "ac2997cb206cf2e755dfcf46aefc87e4"
 };
