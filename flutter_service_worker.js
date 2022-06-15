@@ -3,10 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "394612175ae525f9150836661a6a3f18",
+  "assets/AssetManifest.json": "7ba58e36e711d9a93d8c8488e6a01b36",
 "assets/assets/images/-Menu.png": "955885b52cb6da724d30fa6b8ddb4590",
-"assets/assets/images/bwm.png": "582f278fd56870e8c4539a57ef7a58f7",
-"assets/assets/images/bwm3.png": "1105454a471cc371e8883077d9c633f1",
+"assets/assets/images/bwm4.png": "2b234fca9056ee975e9d383f76af9cc6",
 "assets/assets/images/cheesecake.jpg": "407ddf60fefac6294ed938d79805bc45",
 "assets/assets/images/cocktail.jpg": "28f9da9f10c459b5fd59cf09bd90afa0",
 "assets/assets/images/Delivery.jpg": "65ecbaa0566e2a5d0a74a92b7eab9d55",
@@ -14,6 +13,7 @@ const RESOURCES = {
 "assets/assets/images/entrada_img.jpg": "5583a713e5c709fe87643d3f7ed4b049",
 "assets/assets/images/filet.jpg": "bff62e8add80d76172e66d6aea513667",
 "assets/assets/images/hamburguesas.jpg": "a985e320e1042750f23d9e9bad6bc084",
+"assets/assets/images/harpers-restaurant.jpg": "433f3c30a0daf29831eafb439f844982",
 "assets/assets/images/harpers.png": "521dea8565b5f5e42fc5dd8e0d23de87",
 "assets/assets/images/logo-bw-white.png": "5570c762f220982d5e5c6112d4562492",
 "assets/assets/images/Logo-Harpers-con-copyright%25201.png": "64ed043cdae6cc89ecd3f4805f62ba92",
@@ -42,9 +42,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4566c9742c4edf257b799c9b96999021",
-"/": "4566c9742c4edf257b799c9b96999021",
-"main.dart.js": "877b3321a45d1702a78f44d5041b63d9",
+"index.html": "5cdc9044848c39c8175e9e4c69570831",
+"/": "5cdc9044848c39c8175e9e4c69570831",
+"main.dart.js": "e855e6ed9edec869044453fec284a33f",
 "manifest.json": "c843bc1f10939fdde8202dab4c04eb0a",
 "version.json": "ac2997cb206cf2e755dfcf46aefc87e4"
 };
